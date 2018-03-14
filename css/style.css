@@ -7500,8 +7500,8 @@ h1, h2, h3, h4, h5, h6 {
   float: left;
   width: 100%;
   position: relative;
-  padding-top: 4em;
-  padding-bottom: 4em;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 @media screen and (max-width: 480px) {
   #fh5co-header {
